@@ -1,5 +1,3 @@
-# Know Thyself
-
 |     |     |
 | --- | --- |
 | Instagram | ``_zhiinx_`` |
