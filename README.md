@@ -1,6 +1,6 @@
-`Instagram` _zhiinx_
+`Instagram` `_zhiinx_`
 
-`Twitter  ` zhiinx
+`Twitter  ` `zhiinx`
 
 `Website  ` https://www.zhiinx.com
 
