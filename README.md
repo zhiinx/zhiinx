@@ -1,8 +1,8 @@
-`Instagram` `_zhiinx_`
+`Instagram`: `_zhiinx_`
 
-`Twitter  ` `zhiinx`
+`Twitter`: `zhiinx`
 
-`Website  ` https://www.zhiinx.com
+`Website`: https://www.zhiinx.com
 
-`YouTube  ` https://www.youtube.com/channel/UC-DZQSU_xekYDnhlEO6UY5A
+`YouTube`: https://www.youtube.com/channel/UC-DZQSU_xekYDnhlEO6UY5A
 
